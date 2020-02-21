@@ -5,8 +5,6 @@
 
 [Unit]
 Description=Selenium Standalone Server
-# Requires=xvfb.service
-# After=xvfb.service
 
 [Service]
 Type=simple
